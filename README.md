@@ -1,4 +1,4 @@
-# Cyber Attack Impact Analysis – Power BI Dashboard
+# Cyber Attack Impact Analysis - Power BI Dashboard
 As we rapidly grow in AI and Automation, we're bringing powerful changes to the world — but also facing a rising threat: Cyber Attacks. These attacks are not just digital disruptions; they impact national economies and compromise personal privacy on a massive scale.
 To highlight this growing concern, I have built an interactive Power BI dashboard that visualizes the global impact of cyber attacks from 2015 to 2024.
 
